@@ -6,7 +6,7 @@
 </p>
 
 ## Introduction
-Push Swap is a project aimed at sorting a stack of integers using a limited set of instructions on two stacks named 'a' and 'b'. This project focuses on implementing efficient sorting algorithms in C and optimizing the number of operations needed to sort the stack.
+Push Swap is a fun and challenging project aimed at sorting a stack of integers using a limited set of instructions on two stacks named 'a' and 'b'. This project focuses on implementing efficient sorting algorithms in C and optimizing the number of operations needed to sort the stack. With its many possibilities and constraints, Push Swap feels like a big puzzle to put together. It's amazing when you finally connect all the pieces and see your project working effectively.
 
 ## Compilation
 o compile the Push Swap program, simply run make. This will generate the executable file push_swap for the main part. For the bonus part, you will need to run make bonus and will have a checker executable for the bonus.
