@@ -49,7 +49,7 @@ Then, write the movements to be executed.
 sa
 rra
 ```
-After entering the movements, press Ctrl + D to stop and execute them.
+After entering the movements, **press Ctrl + D to stop and execute them.**
 
 Alternatively, you can use a pipe to redirect the output of Push Swap to Checker. For example:
 ```bash
