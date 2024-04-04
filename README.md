@@ -36,13 +36,16 @@ rrr: Perform rra and rrb simultaneously.
 The project also includes a bonus program named Checker. This program verifies whether the instructions provided correctly sort the stack. If stack 'a' is sorted and stack 'b' is empty after executing the instructions, it displays "OK"; otherwise, it displays "KO". It behaves similarly to checker_linux.
 
 ## Usage (Bonus Part)
-To use the checker program for the bonus part, follow the syntax:
+To use the checker program in interctive mode for the bonus part, follow the syntax:
 ```bash
 ./checker <list_of_integers>
 ```
-Then, write the movements to be executed. 
+Example:
 ```bash
 ./checker "3 2 4 1"
+```
+Then, write the movements to be executed. 
+```bash
 sa
 rra
 ```
