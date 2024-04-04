@@ -1,1 +1,1 @@
-# push-swap-42
+# Push Swap 42
