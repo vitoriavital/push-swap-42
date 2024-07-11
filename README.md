@@ -1,7 +1,7 @@
 # Push Swap
 
 <p align="center">
-  <img src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png" alt="Push Swap Achievement" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libfte.png" alt="Push Swap Achievement" width="200" height="200">
   <img src="https://res.cloudinary.com/dfjub9qt4/image/upload/v1712254907/push_swap_42.png" alt="Push Swap Square" width="200" height="200">
 </p>
 
